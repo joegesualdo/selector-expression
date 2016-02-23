@@ -7,7 +7,7 @@ $ npm install --save selector-expression
 ```
 
 ## Usage 
-```
+```javascript
 var extractClasses = require('selector-expression').extractClasses;
 var extractIds = require('selector-expression').extractIds;
 var extractElement = require('selector-expression').extractElement;
