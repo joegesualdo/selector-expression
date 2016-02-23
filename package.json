@@ -1,6 +1,6 @@
 {
   "name": "selector-expression",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utilities for working with selector expressions.",
   "main": "index.js",
   "scripts": {
